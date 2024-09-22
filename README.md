@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **building innovative platforms**
 
-- 👨‍💻 Many of my projects are available at [davenc.dev](davenc.dev)
+- 👨‍💻 Many of my projects are available at [https://davenc.dev/](https://davenc.dev/)
 
 - 💬 Ask me about my **Personal Projects**
 
