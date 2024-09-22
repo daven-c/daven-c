@@ -5,15 +5,15 @@
 
 - 🔭 I'm currently working on [CourseLLM](https://github.com/daven-c/CourseLLM)
 
+- 🌱 Learning about **Generative AI, Reinforcement Learning**
+
 - 👯 I’m looking to collaborate on **building innovative platforms**
 
-- 👨‍💻 Many of my projects are available at [https://davenc.dev/](https://davenc.dev/)
+- 👨‍💻 Many of my projects are available at [davenc.dev](davenc.dev)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about my **Personal Projects**
 
 - 📫 How to reach me **contact@davenc.dev**
-
-- 📄 Know about my experiences [https://davenc.dev/resources/Daven%20Chang%20Resume.pdf](https://davenc.dev/resources/Daven%20Chang%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
