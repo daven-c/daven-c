@@ -21,10 +21,8 @@
 - 📫 Reach me at **contact@davenc.dev**
 
 <h3 align="center">⚡Featured Repositories:</h3>
-<div align="center">
 ![](https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg)
-</div>
 
 <div align="center">
   <img width="49%" alt="skills" src="https://github-widgetbox.vercel.app/api/skills?languages=python,java,c,rust,javascript,typescript,mysql&libraries=react,django,bootstrap,tensorflow,jquery&theme=carbon&includeNames=true&)">
