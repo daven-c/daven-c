@@ -23,12 +23,12 @@
 <div align="center">
 <h3>⚡Featured Repositories:</h3>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=BandMaker)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=MNIST2VEC)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=DigitGAN)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=SnakeArena)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=TeamCreator)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course&theme=transparent&title_color=#0579c3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=BandMaker&theme=transparent&title_color=#0579c3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=MNIST2VEC&theme=transparent&title_color=#0579c3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=DigitGAN&theme=transparent&title_color=#0579c3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=SnakeArena&theme=transparent&title_color=#0579c3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=TeamCreator&theme=transparent&title_color=#0579c3)
 
 </div>
 
