@@ -20,12 +20,25 @@
 
 - 📫 Reach me at **contact@davenc.dev**
 
-
 <div align="center">
-  
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
-  <img align="center" width="49%" alt="skills" src="https://github-widgetbox.vercel.app/api/skills?languages=python,java,c,rust,javascript,typescript,mysql&libraries=react,django,bootstrap,tensorflow,jquery&theme=carbon&includeNames=true&)">
-  <img align="center" width="49%"alt="skills" src="https://github-widgetbox.vercel.app/api/skills?tools=aws,git,docker,npm,heroku&software=linux,windows,vscode&theme=carbon&includeNames=true&)">
+<h3>⚡Featured Repositories:</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course&theme=transparent&title_color=#4894e0&hide_border=true)](https://github.com/daven-c/BandMaker)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=BandMaker&theme=transparent&title_color=#4894e0&border_color=#1c1f24)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=MNIST2VEC&theme=transparent&title_color=#4894e0)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=DigitGAN&theme=transparent&title_color=#4894e0)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=SnakeArena&theme=transparent&title_color=#4894e0)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=TeamCreator&theme=transparent&title_color=#4894e0)
+
 </div>
 
+
+<div align="center">
+  <h3>⭐Stats:</h3>
+  
+  <img align="center" width="49%" alt="skills" src="https://github-widgetbox.vercel.app/api/skills?languages=python,java,c,rust,javascript,typescript,mysql&libraries=react,django,bootstrap,tensorflow,jquery&theme=carbon&includeNames=true&)">
+  <img align="center" width="49%"alt="skills" src="https://github-widgetbox.vercel.app/api/skills?tools=aws,git,docker,npm,heroku&software=linux,windows,vscode&theme=carbon&includeNames=true&)">
+
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
+</div>
