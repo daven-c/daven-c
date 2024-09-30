@@ -23,14 +23,6 @@
 - 📫 Reach me at **contact@davenc.dev**
 
 
-<div align="center" width="100%">
-  <h3>Stats ⭐</h3>
-
-  <img align="center" width="49.7%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" width="49.7%"  src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
-</div>
-
-
 <h3 align="center">Tech Stack ⚙️</h3>
 
 
@@ -68,6 +60,13 @@
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
+
+<div align="center" width="100%">
+  <h3>Stats ⭐</h3>
+
+  <img align="center" width="49.7%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" width="49.7%"  src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
+</div>
 
 
 <div align="center">
