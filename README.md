@@ -24,8 +24,9 @@
 
 
 
-<h3>Tech Stack ⚙️</h3>
+<h3 align="center">Tech Stack ⚙️</h3>
 
+<div align="end">
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +70,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
-<div align="start">
+</div>
+
+<div align="center">
   <h3>Featured Repositories ⚡</h3>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course&theme=transparent&title_color=4894e0&border_color=22262e)](https://github.com/daven-c/Course)
@@ -82,7 +85,7 @@
 </div>
 
 
-<div>
+<div align="center">
   <h3>Stats ⭐</h3>
 
   <img align="center" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
