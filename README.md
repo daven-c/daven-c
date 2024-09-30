@@ -41,7 +41,7 @@
   ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
   </td>
 
-  <td>
+  <td width="50%">
   <h4>Web Development & Frameworks</h4>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -93,7 +93,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=TeamCreator&theme=transparent&title_color=4894e0&border_color=22262e)](https://github.com/daven-c/TeamCreator)
 
 </div>
-
 
 <div align="center">
   <h3>Stats ⭐</h3>
