@@ -16,7 +16,7 @@
 
 - 🌱 Learning about **Generative AI, Reinforcement Learning**
 
-- 🌐 My personal portfolio is available at [https://davenc.dev/](https://davenc.dev/)
+- 🌐 My personal portfolio is available at [davenc.dev](https://davenc.dev/)
 
 - 🤝 Currently open to **SWE or ML internship positions**
 
