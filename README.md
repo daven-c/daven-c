@@ -68,11 +68,11 @@
   ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 
-<div align="center" width="100%">
+<div align="center">
   <h3>Stats ⭐</h3>
 
-  <img align="center" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
 </div>
 
 
