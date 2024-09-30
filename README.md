@@ -23,12 +23,12 @@
 <div align="center">
 <h3>Featured Repositories ⚡</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course&theme=transparent&title_color=#4894e0&border_color=#2596be)](https://github.com/daven-c/Course)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=BandMaker&theme=transparent&title_color=#4894e0&border_color=#1c1f24)](https://github.com/daven-c/BandMaker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=MNIST2VEC&theme=transparent&title_color=#4894e0)](https://github.com/daven-c/MNIST2VEC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=DigitGAN&theme=transparent&title_color=#4894e0)](https://github.com/daven-c/DigitGAN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=SnakeArena&theme=transparent&title_color=#4894e0)](https://github.com/daven-c/SnakeArena)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=TeamCreator&theme=transparent&title_color=#4894e0)](https://github.com/daven-c/TeamCreator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course&theme=transparent&title_color=4894e0&border_color=1b1e24)](https://github.com/daven-c/Course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=BandMaker&theme=transparent&title_color=4894e0&border_color=1b1e24)](https://github.com/daven-c/BandMaker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=MNIST2VEC&theme=transparent&title_color=4894e0&border_color=1b1e24)](https://github.com/daven-c/MNIST2VEC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=DigitGAN&theme=transparent&title_color=4894e0&border_color=1b1e24)](https://github.com/daven-c/DigitGAN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=SnakeArena&theme=transparent&title_color=4894e0&border_color=1b1e24)](https://github.com/daven-c/SnakeArena)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=TeamCreator&theme=transparent&title_color=4894e0&border_color=1b1e24)](https://github.com/daven-c/TeamCreator)
 
 </div>
 
