@@ -1,17 +1,3 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-<style>
-  .container {
-    display: flex;
-    width: 100%;
-    height: 300px;
-    background-color: black;
-    color: white;
-  }
-</style>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daven-c&label=Profile%20views&color=0e75b6&style=flat" alt="daven-c" /> </p>
 
 <h1 align="center">Hi 👋, I'm Daven !</h1>
@@ -40,9 +26,6 @@
 
 <h3>Tech Stack ⚙️</h3>
 
-<table>
-<tr>
-<td width="50%" border="0">
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,7 +38,6 @@
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 </td>
 
-<td width="50%">
 <h4>Web Development & Frameworks</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,11 +45,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-</td>
-</tr>
 
-<tr border="0">
-<td width="50%">
 <h4>Cloud, Deployment & Version Control</h4>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -77,9 +55,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</td>
 
-<td width="50%">
 <h4>Data Science, Machine Learning & Computing</h4>
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -92,12 +68,8 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-</td>
-</tr>
-<table>
 
-
-<div align="center">
+<div align="start">
   <h3>Featured Repositories ⚡</h3>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daven-c&repo=Course&theme=transparent&title_color=4894e0&border_color=22262e)](https://github.com/daven-c/Course)
@@ -113,11 +85,6 @@
 <div>
   <h3>Stats ⭐</h3>
 
-  <img align="center" width="100%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
 </div>
-
-
-</div>
-</foreignObject>
-</svg>
