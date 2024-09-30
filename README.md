@@ -71,8 +71,8 @@
 <div align="center">
   <h3>Stats ⭐</h3>
 
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
+  <img align="center" width="48%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" width="48%" src="https://raw.githubusercontent.com/daven-c/github-stats-transparent/output/generated/languages.svg" />
 </div>
 
 
