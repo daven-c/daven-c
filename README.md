@@ -14,7 +14,7 @@
 
 - 🚀 Actively working on [CourseLLM](https://github.com/daven-c/CourseLLM)
 
--= 🚀 Trying to implement Google [Titans](https://arxiv.org/pdf/2501.00663) from scratch
+- 🚀 Trying to implement Google [Titans](https://arxiv.org/pdf/2501.00663) from scratch
 
 - 🌱 Learning about **Generative AI, Reinforcement Learning**
 
