@@ -22,7 +22,7 @@
 
 - 🤝 Currently open to **SWE or ML internship positions**
 
-- 📫 Reach me at **contact@davenc.dev**
+- 📫 Reach me at **davenchang.wk@gmail.com**
 
 
 <h3 align="center">Tech Stack ⚙️</h3>
