@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Daven !</h1>
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daven-chang)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daven__chang)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp)
+
+  [![Website](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&similarweb=website&logoColor=white)](https://davenc.dev/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daven-chang)
 
 </div>
+  
 <h2 align="center">Python Developer with Full-Stack, Machine Learning, and Cloud Expertise</h2>
 
 - 📚 Studying **CS + Math** at **The University of Maryland - College Park**
@@ -17,8 +17,6 @@
 - 🚀 Trying to implement Google [Titans](https://arxiv.org/pdf/2501.00663) from scratch
 
 - 🌱 Learning about **Generative AI, Reinforcement Learning**
-
-- 🌐 My personal portfolio is available at [davenc.dev](https://davenc.dev/)
 
 - 🤝 Currently open to **SWE or ML internship positions**
 
