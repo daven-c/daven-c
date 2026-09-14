@@ -4,8 +4,8 @@
 <div align="center">
 
   [![Website](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&similarweb=website&logoColor=white)](https://davenc.dev/)
-  [![Resume](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=googledocs&logoColor=white)](https://s3.us-east-1.amazonaws.com/davenc.dev/public/Daven_Chang_Resume.pdf)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daven-chang)
+  <!--[![Resume](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=googledocs&logoColor=white)](https://s3.us-east-1.amazonaws.com/davenc.dev/public/Daven_Chang_Resume.pdf)-->
 
 </div>
   
